@@ -1,5 +1,4 @@
 # FlyCard
-![flycard](https://cloud.githubusercontent.com/assets/10210954/23083228/70f95426-f565-11e6-9bc4-a37d121d0f9c.png)
 ![banner-flycard](https://cloud.githubusercontent.com/assets/10210954/23083192/48d599dc-f565-11e6-9704-e11b40eba157.png)
 
 FlyCard - Business Card
